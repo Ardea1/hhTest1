@@ -1,0 +1,11 @@
+D:\Образование\hh\CalculateAreaCircleTriangle\bin\Debug\net5.0\CalculateAreaCircleTriangle.deps.json
+D:\Образование\hh\CalculateAreaCircleTriangle\bin\Debug\net5.0\CalculateAreaCircleTriangle.dll
+D:\Образование\hh\CalculateAreaCircleTriangle\bin\Debug\net5.0\ref\CalculateAreaCircleTriangle.dll
+D:\Образование\hh\CalculateAreaCircleTriangle\bin\Debug\net5.0\CalculateAreaCircleTriangle.pdb
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\CalculateAreaCircleTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\CalculateAreaCircleTriangle.AssemblyInfoInputs.cache
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\CalculateAreaCircleTriangle.AssemblyInfo.cs
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\CalculateAreaCircleTriangle.csproj.CoreCompileInputs.cache
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\CalculateAreaCircleTriangle.dll
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\ref\CalculateAreaCircleTriangle.dll
+D:\Образование\hh\CalculateAreaCircleTriangle\obj\Debug\net5.0\CalculateAreaCircleTriangle.pdb

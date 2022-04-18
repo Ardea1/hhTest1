@@ -1,0 +1,16 @@
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\LibraryCheck.exe
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\LibraryCheck.deps.json
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\LibraryCheck.runtimeconfig.json
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\LibraryCheck.runtimeconfig.dev.json
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\LibraryCheck.dll
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\ref\LibraryCheck.dll
+D:\Образование\hh\Новая папка\ConsoleApp1\bin\Debug\net5.0\LibraryCheck.pdb
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.AssemblyInfoInputs.cache
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.AssemblyInfo.cs
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.csproj.CoreCompileInputs.cache
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.csproj.CopyComplete
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.dll
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\ref\LibraryCheck.dll
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.pdb
+D:\Образование\hh\Новая папка\ConsoleApp1\obj\Debug\net5.0\LibraryCheck.genruntimeconfig.cache

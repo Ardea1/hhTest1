@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAreaCircleTriangle", "CalculateAreaCircleTriangle.csproj", "{AF97C0A5-87FD-44E3-96C8-7644C9E8F95B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAreaCircleTriangle", "..\TestAreaCircleTriangle\TestAreaCircleTriangle.csproj", "{5BB9BE89-A233-4E09-91B4-D0B0FAD0F02B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AF97C0A5-87FD-44E3-96C8-7644C9E8F95B} = {AF97C0A5-87FD-44E3-96C8-7644C9E8F95B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF97C0A5-87FD-44E3-96C8-7644C9E8F95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF97C0A5-87FD-44E3-96C8-7644C9E8F95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF97C0A5-87FD-44E3-96C8-7644C9E8F95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF97C0A5-87FD-44E3-96C8-7644C9E8F95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB9BE89-A233-4E09-91B4-D0B0FAD0F02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB9BE89-A233-4E09-91B4-D0B0FAD0F02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB9BE89-A233-4E09-91B4-D0B0FAD0F02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB9BE89-A233-4E09-91B4-D0B0FAD0F02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE95A1E6-475F-4E6D-B471-65FDDDABED59}
+	EndGlobalSection
+EndGlobal
